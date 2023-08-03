@@ -1,6 +1,6 @@
 ### 🇺🇦 Greetings...
 
-I exist to create and explore various things in the world of programming. I have experience with **HTML**, **PHP**, **JavaScript**, **Java**, **Python**, and **Swift**. **Java** is my favorite language, and I usually code in [IntelliJ IDEA](https://www.jetbrains.com/idea/), but sometimes I use editors like [nano](https://en.wikipedia.org/wiki/GNU_nano).
+I exist to create and explore various things in the world of programming. I have experience with **HTML**, **PHP**, **JavaScript** (including **TypeScript**), **Java**, **Python**, and **Swift**. **Java** is my favorite language, and I usually code in [IntelliJ IDEA](https://www.jetbrains.com/idea/), but sometimes I use editors like [nano](https://en.wikipedia.org/wiki/GNU_nano).
 
 ### :computer: System
 
